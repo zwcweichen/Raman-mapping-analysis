@@ -21,3 +21,5 @@ A Python-based tool for analyzing raw data from Raman mapping measurements. This
 - Matplotlib
 - PyQt6
 - lmfit
+
+# Exe file
